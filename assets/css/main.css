@@ -98,9 +98,9 @@ input, select, textarea {
 	}
 
 	body, input, textarea, select {
-		font-family: 'Oswald', sans-serif;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #919499;
+		color: #444444;
 		font-size: 14pt;
 		line-height: 1.75em;
 		letter-spacing: 0.025em;
@@ -1956,7 +1956,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
-		padding: 6em 0 9em 0;
+		padding: 3em 0 9em 0;
 	}
 
 		.wrapper .title {
@@ -3006,4 +3006,10 @@ input, select, textarea {
 			width: 133px;
 			top: 34px;
 		}
+	}
+	.center-content {
+		text-align: center;
+	}
+	.fat{
+		font-weight: bolder;
 	}
